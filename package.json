@@ -1,0 +1,14 @@
+{
+  "name": "smart_post_box",
+  "version": "1.0.0",
+  "description": "An application which provide solution to make simple post box smarter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mojtaba Ahmadi",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.1.0"
+  }
+}
